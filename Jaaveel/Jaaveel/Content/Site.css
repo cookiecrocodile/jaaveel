@@ -1,0 +1,66 @@
+﻿/*TAGS*/
+body {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:2px;
+    padding-right:2px;
+    background-color:black;
+    color:white;
+}
+p{
+    color:white;
+    font-family:monospace;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family:Sue Ellen Francisco;
+}
+
+input,
+select,
+textarea {
+
+    max-width: 280px;
+}
+
+input, button{
+    border:none;
+    border-radius:4px;
+    height:30px;
+    font-weight:500;
+}
+
+button{
+    background-color:#ffd42a;
+    width:80px;
+}
+
+input{
+    color:darkgrey;
+}
+
+a, a:hover{
+    color: #ffd42a;
+}
+
+/*CLASSES*/
+.header {
+    padding-bottom:10px;
+}
+
+.foot{
+
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    width:100%;
+    border-top:1px solid #ffd42a;
+}
+
+.margin-top{
+    margin-top:10px;
+}
+
+
